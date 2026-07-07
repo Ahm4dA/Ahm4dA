@@ -1,66 +1,95 @@
-<h1 align="center">Muhammad Ahmad Adnan</h1>
+<h1 align="center">Hi, I'm Muhammad Ahmad Adnan 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | AI/ML Developer | NLP • Data Pipelines • Full-Stack Systems</b>
+  <b>Software Engineer · AI/ML Developer</b><br>
+  NLP • Data Pipelines • Full-Stack Systems
 </p>
 
 <p align="center">
-  Building AI chatbots, voice bots, ML systems, and production-ready software with Python, AWS, Docker, JavaScript, and modern web technologies.
+  I build AI chatbots, voice assistants, ML systems, and production-ready web applications — from model training to cloud deployment.
+</p>
+
+<p align="center">
+  <a href="https://Ahm4dA.github.io"><img src="https://img.shields.io/badge/Portfolio-Ahm4dA.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-adnan-a092ab228/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:ahmadadnan2003aaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## About me
+## 🚀 About Me
 
-I am a Software Engineer from FAST-NUCES with experience across AI/ML, NLP, data pipelines, QA automation, and full-stack development.
+I'm a Software Engineer from **FAST-NUCES** working across AI/ML, NLP, data engineering, QA automation, and full-stack development. I enjoy taking ideas from research notebooks to deployed, production-grade systems.
 
-Currently, I am focused on:
-
-- AI chatbots and voice assistants
-- Machine learning model development and deployment
-- Data pipelines and backend systems
-- NLP, BERT fine-tuning, and applied ML research
-- Full-stack web applications using MERN and cloud tools
+**Currently focused on:**
+- 🤖 AI chatbots and voice assistants on cloud infrastructure
+- 🧠 ML model development, fine-tuning (BERT), and deployment
+- 🔄 Data pipelines and scalable backend systems
+- 🌐 Full-stack apps with **Next.js, TypeScript, and the MERN stack**
 
 ---
 
-## Tech stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, Java, C++, C#  
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, BERT, LSTM, Deep Learning, NLP  
-**Backend:** Node.js, Express.js, Flask, Spring Boot  
-**Frontend:** React, HTML, CSS, JavaScript  
-**Databases:** MongoDB, PostgreSQL, SQL  
-**Cloud & DevOps:** AWS, Docker, GitHub Actions, Git, MLOps basics  
-**Testing:** Selenium, Cypress, QA Automation  
+**Languages**
+`Python` `TypeScript` `JavaScript` `Java` `C++` `C#`
+
+**AI / ML**
+`TensorFlow` `PyTorch` `Scikit-learn` `BERT` `LSTM` `NLP` `Deep Learning`
+
+**Frontend**
+`Next.js` `React` `HTML` `CSS`
+
+**Backend**
+`Node.js` `Express.js` `Flask` `Spring Boot`
+
+**Databases**
+`PostgreSQL` `MongoDB` `SQL`
+
+**Cloud & DevOps**
+`AWS` `Docker` `GitHub Actions` `Git` `MLOps`
+
+**Testing & QA**
+`Selenium` `Cypress` `QA Automation`
 
 ---
 
-## Featured projects
+## 📌 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| `Ahm4dA.github.io` | Personal portfolio showcasing software engineering, AI/ML, and professional experience | HTML, CSS, JavaScript |
-| `aqi_predictor` | Air Quality Index forecasting project using ML models | Python, TensorFlow/LSTM |
-| `trading-ai` | Experimental AI trading research pipeline with multi-timeframe feature engineering and Docker setup | Python, Docker, PostgreSQL |
-| `Numeric-identification` | Handwritten digit recognition app with drawing canvas | Python, ML |
-| `Point_of_Sale` | Bakery point-of-sale system | C#, .NET |
-| `We-are-F1` | Java-based software project | Java |
+| [**aqi_predictor**](https://github.com/Ahm4dA/aqi_predictor) | Air Quality Index forecasting using time-series ML models | Python, TensorFlow/LSTM |
+| [**trading-ai**](https://github.com/Ahm4dA/trading-ai) | AI trading research pipeline with multi-timeframe feature engineering | Python, Docker, PostgreSQL |
+| [**Numeric-identification**](https://github.com/Ahm4dA/Numeric-identification) | Handwritten digit recognition with an interactive drawing canvas | Python, ML |
+| [**Ahm4dA.github.io**](https://github.com/Ahm4dA/Ahm4dA.github.io) | Personal portfolio site | HTML, CSS, JavaScript |
+| [**Point_of_Sale**](https://github.com/Ahm4dA/Point_of_Sale) | Bakery point-of-sale system | C#, .NET |
+| [**We-are-F1**](https://github.com/Ahm4dA/We-are-F1) | Java-based software project | Java |
 
 ---
 
-## Experience highlights
+## 💼 Experience Highlights
 
-- Built AI chatbot and voice bot systems using cloud infrastructure
-- Worked on ML pipelines for admissions prediction and healthcare-related computer vision
-- Fine-tuned BERT models for dialogue-based NLP tasks
-- Implemented QA automation using Selenium and Cypress
-- Led a team customization effort for HR and payroll systems used by 1,200+ users
+- 🗣️ Built **AI chatbot and voice bot systems** on cloud infrastructure
+- 📊 Developed **ML pipelines** for admissions prediction and healthcare computer vision
+- 🔤 Fine-tuned **BERT models** for dialogue-based NLP tasks
+- ✅ Implemented **QA automation** with Selenium and Cypress
+- 👥 Led a team customizing **HR & payroll systems serving 1,200+ users**
 
 ---
 
-## Connect
+## 📈 GitHub Stats
 
-- Portfolio: https://Ahm4dA.github.io
-- LinkedIn: https://www.linkedin.com/in/muhammad-ahmad-adnan-a092ab228/
-- Email: ahmadadnan2003aaa@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahm4dA&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm4dA&layout=compact&hide_border=true" alt="Top Languages" height="160">
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Portfolio:** [Ahm4dA.github.io](https://Ahm4dA.github.io)
+- 💼 **LinkedIn:** [Muhammad Ahmad Adnan](https://www.linkedin.com/in/muhammad-ahmad-adnan-a092ab228/)
+- ✉️ **Email:** [ahmadadnan2003aaa@gmail.com](mailto:ahmadadnan2003aaa@gmail.com)
+
+<p align="center"><i>Open to collaboration on AI/ML and full-stack projects.</i></p>
