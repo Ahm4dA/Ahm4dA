@@ -80,8 +80,12 @@ I'm a Software Engineer from **FAST-NUCES** working across AI/ML, NLP, data engi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahm4dA&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm4dA&layout=compact&hide_border=true" alt="Top Languages" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahm4dA&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm4dA&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" height="160">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahm4dA&hide_border=true" alt="GitHub Streak" height="160">
 </p>
 
 ---
