@@ -1,0 +1,48 @@
+<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thanks for stopping by — let's build something intelligent together">
+  <defs>
+    <linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="w3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="ftext" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.3 0; 0.3 0; -0.3 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <style>
+      text { font-family: 'Segoe UI', -apple-system, Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'Cascadia Code', 'Segoe UI Mono', 'Fira Code', 'JetBrains Mono', Consolas, Menlo, monospace; }
+      @keyframes driftA { to { transform: translateX(-900px); } }
+      @keyframes driftB { to { transform: translateX(-450px); } }
+      .waveA { animation: driftA 26s linear infinite; }
+      .waveB { animation: driftB 9s linear infinite; }
+      .waveC { animation: driftA 15s linear infinite; }
+      @keyframes glowPulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+      .dot { animation: glowPulse 2.4s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <text x="450" y="40" text-anchor="middle" class="mono" font-size="13" letter-spacing="4" fill="#8b949e">// THANKS FOR STOPPING BY</text>
+
+  <text x="450" y="80" text-anchor="middle" font-size="29" font-weight="800" fill="url(#ftext)">Let&#8217;s build something intelligent together</text>
+
+  <g>
+    <circle class="dot" cx="352" cy="103" r="3.5" fill="#34d399"/>
+    <text x="366" y="108" class="mono" font-size="13" fill="#8b949e">open to AI/ML &amp; full-stack collaborations</text>
+  </g>
+
+  <path class="waveA" fill="url(#w1)" fill-opacity="0.20" d="M0 138 Q112.5 90 225 138 T450 138 T675 138 T900 138 T1125 138 T1350 138 T1575 138 T1800 138 L1800 200 L0 200 Z"/>
+  <path class="waveB" fill="url(#w2)" fill-opacity="0.35" d="M0 150 Q112.5 108 225 150 T450 150 T675 150 T900 150 T1125 150 T1350 150 T1575 150 T1800 150 L1800 200 L0 200 Z"/>
+  <path class="waveC" fill="url(#w3)" fill-opacity="0.9" d="M0 164 Q112.5 130 225 164 T450 164 T675 164 T900 164 T1125 164 T1350 164 T1575 164 T1800 164 L1800 200 L0 200 Z"/>
+</svg>
